@@ -38,6 +38,6 @@ Las variables que usamos son las siguientes:
 ## Enlaces:
 
 - Código en Notebook de Google Colaboratory: https://colab.research.google.com/github/manuelcardenasu2/Proyecto_ML_Calidad_Vino/blob/main/Proyecto_Calidad_Vino_Tinto.ipynb
-- Video: [(Video)](https://youtu.be/HCBMXQUzuVY)
+- Video: [Video](https://youtu.be/HCBMXQUzuVY)
 - Diapositivas: [Diapositivas.pdf](Diapositivas.pdf)
 - Repositorio: https://github.com/manuelcardenasu2/Proyecto_ML_Calidad_Vino
